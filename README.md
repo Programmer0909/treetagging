@@ -1,4 +1,4 @@
-![image](https://github.com/Programmer0909/treetagging/assets/98093062/a26001c9-8d46-4ba0-9933-4f349449b140)# Poshaniya (Tree Mapping Web App)
+# Poshaniya (Tree Mapping Web App)
 
 <div align="center">
    <h2>JP Morgan Code for Good 2023</h2> 
