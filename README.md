@@ -2,7 +2,7 @@
 
 <div align="center">
    <h2>JP Morgan Code for Good 2023</h2> 
-   <h3> Team Ethereal Earth </h3>
+   <h3> Team Eternal Earth </h3>
    <br>
   <a href="https://github.com/Om-Doiphode/Poshaniya/stargazers"><img alt="GitHub issues" src="https://img.shields.io/github/stars/Om-Doiphode/Poshaniya"></a>
   <a href="https://github.com/Om-Doiphode/Poshaniya/network/members"><img alt="GitHub stars" src="https://img.shields.io/github/forks/Om-Doiphode/Poshaniya"></a>
@@ -34,10 +34,6 @@
 #### For Web
 
 1. Clone the repository
-
-```
-https://github.com/Om-Doiphode/Poshaniya.git
-```
 
 To start the app
 
